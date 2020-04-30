@@ -1,6 +1,6 @@
 Self driving car using Deep Learning, OpenCv and Python.
 
-Team members: Pritam Mondal, Saikat Dey, Sounak Mondal, Kingshuk Pal.
+Team members: Pritam Mondal, Saikat Dey, Sounak Mondal, Kingshuk Pal and Subhomoy Chatterjee.
 
 Hardware used:
 Robot Car Chassis
